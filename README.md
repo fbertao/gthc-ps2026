@@ -11,11 +11,11 @@
 () Já fiz projetos
 () Tenho Experiência
 2. Quais ferramentas conhece/já usou?
-    () Python
-    () SQL
-    () Excel/google sheets
-    () Ferramentas de BI (quicksight, power bi)
-    () Nenhuma
+    - () Python
+    - () SQL
+    - () Excel/google sheets
+    - () Ferramentas de BI (quicksight, power bi)
+    - () Nenhuma
 3. Imagine que temos uma planilha com as vendas de uma empresa. Que informações você gostaria de descobrir a partir desses dados?
 
 # Case - Análise dos passageiros do Titanic
