@@ -5,20 +5,20 @@
 - Período de ingresso
 - email 
 
-- Já teve contato com programação, análise de dados ou estatística?
+1. Já teve contato com programação, análise de dados ou estatística?
 () Nunca
 () Pouco
 () Já fiz projetos
 () Tenho Experiência
-- Quais ferramentas conhece/já usou?
+2. Quais ferramentas conhece/já usou?
 () Python
 () SQL
 () Excel/google sheets
 () Ferramentas de BI (quicksight, power bi)
 () Nenhuma
-- Imagine que temos uma planilha com as vendas de uma empresa. Que informações você gostaria de descobrir a partir desses dados?
+3. Imagine que temos uma planilha com as vendas de uma empresa. Que informações você gostaria de descobrir a partir desses dados?
 
-- Case - Análise dos passageiros do Titanic
+# Case - Análise dos passageiros do Titanic
     Você faz parte de uma equipe de dados e recebeu uma base contendo informações dos passageiros do Titanic. 
     O objetivo é explorar os dados e identificar possíveis padrões relacionados à sobrevivência dos passageiros. 
     * Não precisa usar programação, use a ferramenta que achar melhor
